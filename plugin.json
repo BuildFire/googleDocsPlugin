@@ -1,7 +1,7 @@
 {
   "author": "BuildFire",
   "pluginName": "Google Docs",
-  "pluginDescription": "Google Docs brings your documents to life with smart editing and styling tools to help you easily format text and paragraphs. Choose from hundreds of fonts, add links, images, and drawings.Related Topics:Google Plus, Students ",
+  "pluginDescription": "Embed Google Docs into your mobile app.",
   "supportEmail": "support@buildfire.com",
   "supportSite":"http://learn.appdocumentation.com/plugin-tutorials/google-docs-plugin-tutorial",
   "control": {
@@ -18,5 +18,31 @@
   "widget": {
   },
   "features": [],
-  "languages": ["en"]
+  "languages": ["en"],
+  "media": [
+    {
+      "type": "image-resource",
+      "path": "1-Plugin.png"
+    },
+    {
+      "type": "image-resource",
+      "path": "2-benefits.png"
+    },
+    {
+      "type": "image-resource",
+      "path": "3-Use-Cases.png"
+    },
+    {
+      "type": "image-resource",
+      "path": "4-Content-Tab.png"
+    },
+    {
+      "type": "image-resource",
+      "path": "5-Analytics-Tab.png"
+    },
+    {
+      "type": "youtube-video",
+      "path": "https://www.youtube.com/watch?v=1fBHgUsarJE"
+    }
+  ]
 }

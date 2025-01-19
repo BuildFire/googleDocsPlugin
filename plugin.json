@@ -1,7 +1,7 @@
 {
   "author": "Buildfire",
   "pluginName": "Google Docs",
-  "pluginDescription": "Embed Google Docs into your mobile app.",
+  "pluginDescription": "Embed Google Docs into your mobile app, allowing users to view, edit, and collaborate on documents seamlessly within the app experience.",
   "supportEmail": "support@buildfire.com",
   "supportSite":"http://learn.appdocumentation.com/plugin-tutorials/google-docs-plugin-tutorial",
   "control": {
